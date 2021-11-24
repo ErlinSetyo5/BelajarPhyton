@@ -24,3 +24,13 @@ nilai100 = 14
 print (nilai_a)
 print(_A)
 print(nilai100)
+
+# Contoh penamaan variable dalam phyton
+nilai_c = 20
+_A = 18
+nilai100 = 14
+
+# contoh penamaan variable dalam phyton
+print (nilai_c)
+print(_A)
+print(nilai100)
